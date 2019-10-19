@@ -15,7 +15,7 @@ data目录里面的数据，只有2万行，完整的数据可关注[斗码小�
 
 ## 模型结果
 
-[电影短评情感分析模型大会战]http://www.csuldw.com/2019/10/19/2019-10-19-comment-analysis/
+[电影短评情感分析：各大模型江湖再见]http://www.csuldw.com/2019/10/19/2019-10-19-comment-analysis/
 
 |模型名称|Accuracy|Precision|Recall|F1-Score|AUC|
 |-|-|-|-|-|-|
